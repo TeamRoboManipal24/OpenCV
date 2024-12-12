@@ -3,7 +3,7 @@
 - Track the football in the given video with a bounding box
 - Track and count the players in each team present on the screen at any given moment
 
-Implement OpenCV algorithm from scratch (Do not use CV2 Zone)
+Implement OpenCV algorithm from scratch (You are allowed to use cv2 library and numpy but Do not use cvzone)
 
 Bonus Task:
 - The bounding box of the football should be red initially and must turn green when the ball enters the goal
